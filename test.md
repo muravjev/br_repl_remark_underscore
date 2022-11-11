@@ -1,1 +1,1 @@
-[CODE\_OF\_CONDUCT.md]()
+[CODE_OF_CONDUCT.md]()

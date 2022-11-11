@@ -18,9 +18,11 @@ remark --output -- .
 [CODE\_OF\_CONDUCT.md]()
 ```
 
+diff: https://github.com/muravjev/repro_remark_underscore/compare/0d32000...defd596
+
 ## Question
 
-Is it possible to prevent such behavior? Is it defect?
+Is it possible to prevent such behavior?
 
 ## Reproduction
 
